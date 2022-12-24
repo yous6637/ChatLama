@@ -1,6 +1,7 @@
 {
   "name": "react",
   "version": "0.0.0",
+  "homepage": "https://youss6637.github.io/ChatLama",
   "private": true,
   "dependencies": {
     "firebase": "^9.15.0",
